@@ -5,6 +5,24 @@ I'm a student from BINUS University. I love creating things and expressing my cr
 
 
 #
+<table width="100%">
+ <thead>
+   <tr>
+     <th width="50%" align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">My Portfolio Website</a></th>
+     <th width="50%" align="center"><a href="https://github.com/alfinsrf">Fight Your Fears</a></th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
+   </tr>
+   <tr>
+     <td valign="text-top">This is a portfolio website that I use to host things that I made, I also post my experience history on this website.</td>
+     <td valign="text-top">Fight your fears is a 2D top down shooting game where we as players have to beat monsters that embody fear.</td>
+   </tr>
+ </tbody>
+
 <!--
 **alfinsrf/alfinsrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
