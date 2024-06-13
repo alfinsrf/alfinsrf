@@ -8,8 +8,8 @@ I'm a student from Bina Nusantara University. I love creating things and express
 <table width="100%">
  <thead>
    <tr>
-     <th width="50%" align="center"><a href="">My Portfolio Website</a></th>
-     <th width="50%" align="center"><a href="">Fight Your Fears</a></th>
+     <th width="50%" align="center">My Portfolio Website</a></th>
+     <th width="50%" align="center">Fight Your Fears</a></th>
    </tr>
  </thead>
  <tbody>
@@ -21,12 +21,16 @@ I'm a student from Bina Nusantara University. I love creating things and express
      <td valign="text-top">This is a portfolio website that I use to host things that I made, I also post my experience history on this website.</td>
      <td valign="text-top">Fight your fears is a 2D top down shooting game where we as players have to beat monsters that embody fear.</td>
    </tr>
-  <tr>
-   <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">My Website</td>
-  </tr>
+   <tr>
+    <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">My Website</td>
    <td align="center"><a href="[https://github.com/alfinsrf/alfinsportfolio.github.io](https://github.com/alfinsrf/alfinsportfolio.github.io)">GitHub Repository</td>
   </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
  </tbody>
+</table>
 
 <!--
 **alfinsrf/alfinsrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
