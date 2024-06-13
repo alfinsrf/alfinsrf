@@ -61,6 +61,36 @@ I'm a student from Bina Nusantara University. I love creating things and express
  </tbody>
 </table>
 
+<br>
+
+<table width="100%">
+ <thead>
+   <tr>
+     <th width="50%" align="center">Golden Learning Website</a></th>
+     <th width="50%" align="center">Mr Raccoon</a></th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/GoldenLearning%20GIF.gif"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
+   </tr>
+   <tr>
+     <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid project assignment.</td>
+     <td valign="text-top">Fight your fears is a 2D top down shooting game where we as players have to beat monsters that embody fear.</td>
+   </tr>
+   <tr>
+    <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">GitHub Repository</td>
+    <td align="center">Coming Soon</td>
+  </tr>
+  <tr>
+   <td align="center"><a href=""></td>
+   <td align="center"></td>
+  </tr>
+ </tbody>
+</table>
+
+
 
 <!--
 **alfinsrf/alfinsrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
