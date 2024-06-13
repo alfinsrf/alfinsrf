@@ -23,10 +23,10 @@ I'm a student from Bina Nusantara University. I love creating things and express
    </tr>
    <tr>
     <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">My Website</td>
-   <td align="center"><a href="[https://github.com/alfinsrf/alfinsportfolio.github.io](https://github.com/alfinsrf/alfinsportfolio.github.io)">GitHub Repository</td>
+    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <td align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">GitHub Repository</td>
    <td></td>
   </tr>
  </tbody>
