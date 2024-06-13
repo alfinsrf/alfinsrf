@@ -48,11 +48,11 @@ I'm a student from Bina Nusantara University. I love creating things and express
    </tr>
    <tr>
      <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid project assignment.</td>
-     <td valign="text-top">"Explanation will follow. Stay tuned!"</td>
+     <td valign="text-top">Explanation will follow. Stay tuned!</td>
    </tr>
    <tr>
     <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">GitHub Repository</td>
-    <td align="center">Coming Soon</td>
+    <td align="center">Itch.Io Coming Soon</td>
   </tr>
   <tr>
    <td align="center"><a href=""></td>
@@ -80,11 +80,11 @@ I'm a student from Bina Nusantara University. I love creating things and express
      <td valign="text-top">Explanation will follow. Stay tuned!</td>
    </tr>
    <tr>
-    <td align="center">Coming Soon</td>
-    <td align="center">Coming Soon</td>
+    <td align="center">Itch.Io Coming Soon</td>
+    <td align="center">Itch.Io Coming Soon</td>
   </tr>
   <tr>
-   <td align="center"><a href=""></td>
+   <td align="center"></td>
    <td align="center"></td>
   </tr>
  </tbody>
