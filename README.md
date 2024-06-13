@@ -18,7 +18,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
      <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/FightYourFears%20GIF.gif"></td>
    </tr>
    <tr>
-     <td valign="text-top">This is a portfolio website that I use to host things that I made, I also post my experience history on this website.</td>
+     <td valign="text-top">This is my portfolio website where I showcase my work. I use it to display the projects I've created and to share my professional experience.</td>
      <td valign="text-top">You have fears? do you want to fight those fears? Fight Your Fears is a 2D top-down shooting game where we as players have to beat monsters that embody fear.</td>
    </tr>
    <tr>
