@@ -19,7 +19,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
    </tr>
    <tr>
      <td valign="text-top">This is a portfolio website that I use to host things that I made, I also post my experience history on this website.</td>
-     <td valign="text-top">Fight your fears is a 2D top down shooting game where we as players have to beat monsters that embody fear.</td>
+     <td valign="text-top">You have fears? do you want to fight those fears? Fight Your Fears is a 2D top-down shooting game where we as players have to beat monsters that embody fear.</td>
    </tr>
    <tr>
     <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">My Website</td>
