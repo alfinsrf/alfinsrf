@@ -47,7 +47,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
      <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
    </tr>
    <tr>
-     <td valign="text-top">This is a portfolio website that I use to host things that I made, I also post my experience history on this website.</td>
+     <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid project assignment.</td>
      <td valign="text-top">Fight your fears is a 2D top down shooting game where we as players have to beat monsters that embody fear.</td>
    </tr>
    <tr>
