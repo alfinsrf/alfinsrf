@@ -1,6 +1,6 @@
 # Hi there, I'm Alfin👋
 ---
-I'm a student from BINUS University. I love creating things and expressing my creativity✨ Welcome to my GitHub Profile, nice to meet you😄
+I'm a student from Bina Nusantara University. I love creating things and expressing my creativity✨ Welcome to my GitHub Profile, nice to meet you😄
 
 
 
@@ -8,8 +8,8 @@ I'm a student from BINUS University. I love creating things and expressing my cr
 <table width="100%">
  <thead>
    <tr>
-     <th width="50%" align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">My Portfolio Website</a></th>
-     <th width="50%" align="center"><a href="https://github.com/alfinsrf">Fight Your Fears</a></th>
+     <th width="50%" align="center"><a href="">My Portfolio Website</a></th>
+     <th width="50%" align="center"><a href="">Fight Your Fears</a></th>
    </tr>
  </thead>
  <tbody>
@@ -21,6 +21,11 @@ I'm a student from BINUS University. I love creating things and expressing my cr
      <td valign="text-top">This is a portfolio website that I use to host things that I made, I also post my experience history on this website.</td>
      <td valign="text-top">Fight your fears is a 2D top down shooting game where we as players have to beat monsters that embody fear.</td>
    </tr>
+  <tr>
+   <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">My Website</td>
+  </tr>
+   <td align="center"><a href="[https://github.com/alfinsrf/alfinsportfolio.github.io](https://github.com/alfinsrf/alfinsportfolio.github.io)">GitHub Repository</td>
+  </tr>
  </tbody>
 
 <!--
