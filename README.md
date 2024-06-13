@@ -43,7 +43,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
  </thead>
  <tbody>
    <tr>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/GoldenLearning%20GIF.gif"></td>
      <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
    </tr>
    <tr>
