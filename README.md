@@ -15,7 +15,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
  <tbody>
    <tr>
      <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/CS.png"></td>
    </tr>
    <tr>
      <td valign="text-top">This is a portfolio website that I use to host things that I made, I also post my experience history on this website.</td>
