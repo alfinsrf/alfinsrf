@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi there, I'm Alfin👋
+---
+A student from BINUS University🔭 I love creating things and expressing my creativity⚡ Welcome to my GitHub Profile✨ nice to meet you😄
 
+
+
+#
 <!--
 **alfinsrf/alfinsrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
