@@ -23,11 +23,11 @@ I'm a student from Bina Nusantara University. I love creating things and express
    </tr>
    <tr>
     <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">My Website</td>
-    <td>Itch.Io Page Coming Soon</td>
+    <td align="center">Itch.Io Page Coming Soon</td>
   </tr>
   <tr>
    <td align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">GitHub Repository</td>
-   <td>GitHub Repository Coming Soon</td>
+   <td align="center"></td>
   </tr>
  </tbody>
 </table>
@@ -52,11 +52,11 @@ I'm a student from Bina Nusantara University. I love creating things and express
    </tr>
    <tr>
     <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">GitHub Repository</td>
-    <td></td>
+    <td align="center">Coming Soon</td>
   </tr>
   <tr>
    <td align="center"><a href=""></td>
-   <td></td>
+   <td align="center"></td>
   </tr>
  </tbody>
 </table>
