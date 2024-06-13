@@ -44,11 +44,11 @@ I'm a student from Bina Nusantara University. I love creating things and express
  <tbody>
    <tr>
      <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/GoldenLearning%20GIF.gif"></td>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/CS.png"></td>
    </tr>
    <tr>
      <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid project assignment.</td>
-     <td valign="text-top">Fight your fears is a 2D top down shooting game where we as players have to beat monsters that embody fear.</td>
+     <td valign="text-top">"Explanation will follow. Stay tuned!"</td>
    </tr>
    <tr>
     <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">GitHub Repository</td>
@@ -66,21 +66,21 @@ I'm a student from Bina Nusantara University. I love creating things and express
 <table width="100%">
  <thead>
    <tr>
-     <th width="50%" align="center">Golden Learning Website</a></th>
-     <th width="50%" align="center">Mr Raccoon</a></th>
+     <th width="50%" align="center">Project LAS</a></th>
+     <th width="50%" align="center">Project TLH</a></th>
    </tr>
  </thead>
  <tbody>
    <tr>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/GoldenLearning%20GIF.gif"></td>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/CS.png"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/CS.png"></td>
    </tr>
    <tr>
-     <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid project assignment.</td>
-     <td valign="text-top">Fight your fears is a 2D top down shooting game where we as players have to beat monsters that embody fear.</td>
+     <td valign="text-top">Explanation will follow. Stay tuned!</td>
+     <td valign="text-top">Explanation will follow. Stay tuned!</td>
    </tr>
    <tr>
-    <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">GitHub Repository</td>
+    <td align="center">Coming Soon</td>
     <td align="center">Coming Soon</td>
   </tr>
   <tr>
