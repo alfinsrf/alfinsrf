@@ -1,6 +1,6 @@
 # Hi there, I'm Alfin👋
 ---
-A student from BINUS University🔭 I love creating things and expressing my creativity⚡ Welcome to my GitHub Profile✨ nice to meet you😄
+I'm a student from BINUS University. I love creating things and expressing my creativity. Welcome to my GitHub Profile✨ nice to meet you😄
 
 
 
