@@ -66,7 +66,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
 <table width="100%">
  <thead>
    <tr>
-     <th width="50%" align="center">Project LAS</a></th>
+     <th width="50%" align="center">Force Pong</a></th>
      <th width="50%" align="center">Project TLH</a></th>
    </tr>
  </thead>
