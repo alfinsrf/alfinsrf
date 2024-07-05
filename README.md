@@ -48,7 +48,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
    </tr>
    <tr>
      <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid project assignment.</td>
-     <td valign="text-top">Explanation will follow. Stay tuned!</td>
+     <td valign="text-top">Pemuda Pintar: Membangun Bangsa is a platformer game where players must navigate obstacles, avoid traps, and outsmart enemies. These foes will challenge players with quick quizzes, adding an exciting cognitive element to the game. Show off your skills and intelligence as you progress through each level!</td>
    </tr>
    <tr>
     <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">GitHub Repository</td>
