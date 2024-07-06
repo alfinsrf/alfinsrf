@@ -44,7 +44,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
  <tbody>
    <tr>
      <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/GoldenLearning%20GIF.gif"></td>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/Pemuda%20Pintar%20Membangun%20Bangsa.gif"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/Pemuda%20Pintar%20GIF.gif"></td>
    </tr>
    <tr>
      <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid project assignment.</td>
