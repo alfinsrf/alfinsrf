@@ -56,7 +56,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
   </tr>
   <tr>
    <td align="center"><a href=""></td>
-   <td align="center">GitHub Repository Coming Soon</td>
+   <td align="center"><a href="https://github.com/alfinsrf/PemudaPintarMembangunBangsa">GitHub Repository</td>
   </tr>
  </tbody>
 </table>
