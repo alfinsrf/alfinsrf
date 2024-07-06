@@ -90,7 +90,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
  </tbody>
 </table>
 
-## My Contributions Snake
+## 🐍My Contributions Snake
 ![Snake animation](https://raw.githubusercontent.com/alfinsrf/alfinsrf/output/github-contribution-grid-snake-dark.svg)
 
 
