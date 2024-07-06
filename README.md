@@ -1,7 +1,6 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Alfin👋&section=header&reversal=false&animation=twinkling">
 </p>
----
 I'm a student from Bina Nusantara University. I love creating things and expressing my creativity✨ Welcome to my GitHub Profile, nice to meet you😄
 
 
