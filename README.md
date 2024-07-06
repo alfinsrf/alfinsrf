@@ -94,6 +94,12 @@ I'm a student from Bina Nusantara University. I love creating things and express
 ## 🐍My Contributions Snake
 ![Snake animation](https://raw.githubusercontent.com/alfinsrf/alfinsrf/output/github-contribution-grid-snake-dark.svg)
 
+<br>
+
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer">
+</p>
+
 
 
 <!--
