@@ -53,7 +53,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
    </tr>
    <tr>
     <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">GitHub Repository</td>
-    <td align="center">Itch.Io Coming Soon</td>
+    <td align="center">Itch.Io Page Coming Soon</td>
   </tr>
   <tr>
    <td align="center"><a href=""></td>
