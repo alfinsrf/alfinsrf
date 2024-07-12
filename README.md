@@ -28,7 +28,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
   </tr>
   <tr>
    <td align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">GitHub Repository</td>
-   <td align="center"></td>
+   <td align="center"><a href="https://github.com/alfinsrf/FightYourFears">Github Repository</td>
   </tr>
  </tbody>
 </table>
