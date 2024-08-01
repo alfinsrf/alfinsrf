@@ -73,19 +73,19 @@ I'm a student from Bina Nusantara University. I love creating things and express
  </thead>
  <tbody>
    <tr>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/CS.png"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/Force%20Pong%20Gameplay%20GIF.gif"></td>
      <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/CS.png"></td>
    </tr>
    <tr>
-     <td valign="text-top">Explanation will follow. Stay tuned!</td>
+     <td valign="text-top">Force Pong is a variation of ping pong game where players move their characters up and down to prevent a bomb ball from exploding in their territory. The objective is to explode the bomb ball 11 times in the opponent's territory in order to conquer the galaxy.</td>
      <td valign="text-top">Explanation will follow. Stay tuned!</td>
    </tr>
    <tr>
-    <td align="center">Itch.Io Coming Soon</td>
+    <td align="center"><a href="https://afr-developer.itch.io/force-pong">Itch.Io Pages</td>
     <td align="center">Itch.Io Coming Soon</td>
   </tr>
   <tr>
-   <td align="center"></td>
+   <td align="center"><a href="https://github.com/alfinsrf/ForcePong">GitHub Repository</td>
    <td align="center"></td>
   </tr>
  </tbody>
