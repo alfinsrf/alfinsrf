@@ -68,7 +68,7 @@ I'm a student from Bina Nusantara University. I love creating things and express
  <thead>
    <tr>
      <th width="50%" align="center">Force Pong</a></th>
-     <th width="50%" align="center">Project TLH</a></th>
+     <th width="50%" align="center">I'm still cooking on it</a></th>
    </tr>
  </thead>
  <tbody>
