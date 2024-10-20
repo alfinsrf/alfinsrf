@@ -91,17 +91,6 @@ I'm a student from Bina Nusantara University. I love creating things and express
  </tbody>
 </table>
 
-## 🐍My Contributions Snake
-![Snake animation](https://raw.githubusercontent.com/alfinsrf/alfinsrf/output/github-contribution-grid-snake-dark.svg)
-
-<br>
-
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer">
-</p>
-
-
-
 <!--
 **alfinsrf/alfinsrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
