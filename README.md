@@ -3,7 +3,7 @@
 </p>-->
 Hi there, I'm Alfin 👋
 ---
-💁 Let Me Introduce Myself <br>
+💁<h3 align="left">Let Me Introduce Myself</h3>
 I'm a student from Bina Nusantara University. I love creating things and expressing my creativity✨ Welcome to my GitHub Profile, nice to meet you😄
 <br>
 I have a deep interest in various things such as music, art, and technology. In the field of technology, I am particularly fascinated by software development, AI, and the advancements in hardware technology. I also love to be creative, especially developing games and apps. I am driven by a strong desire to continuously learn and explore new possibilities.
