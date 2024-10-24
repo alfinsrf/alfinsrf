@@ -119,25 +119,25 @@ I have a deep interest in various things such as music, art, and technology. In 
  <thead>
    <tr>
      <th width="50%" align="center">My Portfolio Website</a></th>
-     <th width="50%" align="center">Fight Your Fears</a></th>
+     <th width="50%" align="center">Golden Learning Website</a></th>
    </tr>
  </thead>
  <tbody>
    <tr>
      <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/FightYourFears%20GIF.gif"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/GoldenLearning%20GIF.gif"></td>
    </tr>
    <tr>
      <td valign="text-top">This is my portfolio website where I showcase my work. I use it to display the projects I've created and to share my professional experience.</td>
-     <td valign="text-top">You have fears? do you want to fight those fears? Fight Your Fears is a 2D top-down shooting game where we as players have to beat monsters that embody fear.</td>
+     <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid-project assignment.</td>
    </tr>
    <tr>
     <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">Go To Website</td>
-    <td align="center">Itch.Io Page Coming Soon</td>
+    <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">Github Repository</td>
   </tr>
   <tr>
    <td align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">GitHub Repository</td>
-   <td align="center"><a href="https://github.com/alfinsrf/FightYourFears">Github Repository</td>
+   <td align="center"></td>
   </tr>
  </tbody>
 </table>
