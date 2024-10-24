@@ -87,19 +87,19 @@ I have a deep interest in various things such as music, art, and technology. In 
  <tbody>
    <tr>
      <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/Force%20Pong%20Gameplay%20GIF.gif"></td>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/CS.png"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
    </tr>
    <tr>
      <td valign="text-top">Force Pong is a variation of ping pong game where players move their characters up and down to prevent a bomb ball from exploding in their territory. The objective is to explode the bomb ball 11 times in the opponent's territory in order to conquer the galaxy.</td>
-     <td valign="text-top">Explanation will follow. Stay tuned!</td>
+     <td valign="text-top">This is my portfolio website where I showcase my work. I use it to display the projects I've created and to share my professional experience.</td>
    </tr>
    <tr>
     <td align="center"><a href="https://afr-developer.itch.io/force-pong">Itch.Io Pages</td>
-    <td align="center">Itch.Io Coming Soon</td>
+    <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">Go To Website</td>
   </tr>
   <tr>
    <td align="center"><a href="https://github.com/alfinsrf/ForcePong">GitHub Repository</td>
-   <td align="center"></td>
+   <td align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">GitHub Repository</td>
   </tr>
  </tbody>
 </table>
