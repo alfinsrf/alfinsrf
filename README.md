@@ -142,35 +142,6 @@ I have a deep interest in various things such as music, art, and technology. In 
  </tbody>
 </table>
 
-<br>
-
-<table width="100%">
- <thead>
-   <tr>
-     <th width="50%" align="center">Golden Learning Website</a></th>
-     <th width="50%" align="center">Pemuda Pintar: Membangun Bangsa</a></th>
-   </tr>
- </thead>
- <tbody>
-   <tr>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/GoldenLearning%20GIF.gif"></td>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/Pemuda%20Pintar%20GIF.gif"></td>
-   </tr>
-   <tr>
-     <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid project assignment.</td>
-     <td valign="text-top">Pemuda Pintar: Membangun Bangsa is a platformer game where players must navigate obstacles, avoid traps, and outsmart enemies. These foes will challenge players with quick quizzes, adding an exciting cognitive element to the game. Show off your skills and intelligence as you progress through each level!</td>
-   </tr>
-   <tr>
-    <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">GitHub Repository</td>
-    <td align="center">Itch.Io Page Coming Soon</td>
-  </tr>
-  <tr>
-   <td align="center"><a href=""></td>
-   <td align="center"><a href="https://github.com/alfinsrf/PemudaPintarMembangunBangsa">GitHub Repository</td>
-  </tr>
- </tbody>
-</table>
-
 <!--
 **alfinsrf/alfinsrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
