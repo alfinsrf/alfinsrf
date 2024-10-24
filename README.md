@@ -11,7 +11,7 @@ I have a deep interest in various things such as music, art, and technology. In 
 
 <br>
 
-<h3 align="left">📌My Professional Skills:</h3>
+## 📌My Professional Skills:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,c,kotlin,flutter,java" />
@@ -20,7 +20,7 @@ I have a deep interest in various things such as music, art, and technology. In 
 
 <br>
 
-<h3 align="left">📌Tools I Use:</h3>
+## 📌Tools I Use:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,visualstudio,blender,androidstudio,vscode" />
