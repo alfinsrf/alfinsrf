@@ -12,7 +12,7 @@ I have a deep interest in various things such as music, art, and technology. In 
 <h3 align="left">My Professional Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,unity,cs,c,blender,kotlin,flutter,java,git" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,c,blender,kotlin,flutter,java,git,html,css,js" />
   </a>
 </p>
 
