@@ -148,25 +148,25 @@ I have a deep interest in various things such as music, art, and technology. In 
  <thead>
    <tr>
      <th width="50%" align="center">Force Pong</a></th>
-     <th width="50%" align="center">Portfolio Website</a></th>
+     <th width="50%" align="center">Fight Your Fears</a></th>
    </tr>
  </thead>
  <tbody>
    <tr>
      <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/Force%20Pong%20Gameplay%20GIF.gif"></td>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/My%20Website%20GIF.gif"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/FightYourFears%20GIF.gif"></td>
    </tr>
    <tr>
      <td valign="text-top">Force Pong is a variation of ping pong game where players move their characters up and down to prevent a bomb ball from exploding in their territory. The objective is to explode the bomb ball 11 times in the opponent's territory in order to conquer the galaxy.</td>
-     <td valign="text-top">This is my portfolio website where I showcase my work. I use it to display the projects I've created and to share my professional experience.</td>
+     <td valign="text-top">You have fears? do you want to fight those fears? Fight Your Fears is a 2D top-down shooting game where we as players have to beat monsters that embody fear.</td>
    </tr>
    <tr>
-    <td align="center"><a href="https://afr-developer.itch.io/force-pong">Itch.Io Pages</td>
-    <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">Go To Website</td>
+    <td align="center"><a href="https://afr-developer.itch.io/force-pong">Itch.Io Page</td>
+    <td align="center">Itch.Io Page Coming Soon</td>
   </tr>
   <tr>
    <td align="center"><a href="https://github.com/alfinsrf/ForcePong">GitHub Repository</td>
-   <td align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">GitHub Repository</td>
+   <td align="center"><a href="https://github.com/alfinsrf/FightYourFears">GitHub Repository</td>
   </tr>
  </tbody>
 </table>
