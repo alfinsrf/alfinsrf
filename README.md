@@ -3,9 +3,19 @@
 </p>-->
 Hi there, I'm Alfin 👋
 ---
+💁 Let Me Introduce Myself
 I'm a student from Bina Nusantara University. I love creating things and expressing my creativity✨ Welcome to my GitHub Profile, nice to meet you😄
 
+I have a deep interest in various things such as music, art, and technology. In the field of technology, I am particularly fascinated by software development, AI, and the advancements in hardware technology. I also love to be creative, especially developing games and apps. I am driven by a strong desire to continuously learn and explore new possibilities.
 
+<br>
+
+<h3 align="left">My Professional Skills:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,unity,git,blender,c,cs,flutter" />
+  </a>
+</p>
 
 #
 <table width="100%">
