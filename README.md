@@ -31,35 +31,6 @@ I have a deep interest in various things such as music, art, and technology. In 
 <table width="100%">
  <thead>
    <tr>
-     <th width="50%" align="center">What I Saw</a></th>
-     <th width="50%" align="center">Panda and the Seed of Life</a></th>
-   </tr>
- </thead>
- <tbody>
-   <tr>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/WhatISawGIF.gif"></td>
-     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/PATSOLGIF.gif"></td>
-   </tr>
-   <tr>
-     <td valign="text-top">What I Saw is a story-driven FPS game where players must follow the storyline presented in each chapter and complete the tasks given during the game to progress the game.</td>
-     <td valign="text-top">Panda and the Seed of Life is a game I created for Gameseed 2024. This game tells the story of a panda who has great power and responsibility and he must go to the forbidden land to fulfill it. It is an action-adventure game where the player will play the panda and travel to the forbidden land. This journey will not be easy as there will be many challenges. Players can also level up the panda to become stronger and unlock skills that the panda has.</td>
-   </tr>
-   <tr>
-    <td align="center">Coming Soon</td>    
-    <td align="center"><a href="https://afr-developer.itch.io/panda-and-the-seed-of-life">Itch.Io Page</td>
-  </tr>
-  <tr>
-   <td align="center"></td>
-   <td align="center"></td>
-  </tr>
- </tbody>
-</table>
-
-<br>
-
-<table width="100%">
- <thead>
-   <tr>
      <th width="50%" align="center">New Age: Hope From Another Universe</a></th>
      <th width="50%" align="center">Pemuda Pintar: Membangun Bangsa</a></th>
    </tr>
@@ -109,6 +80,35 @@ I have a deep interest in various things such as music, art, and technology. In 
   <tr>
    <td align="center"><a href="https://github.com/alfinsrf/ForcePong">GitHub Repository</td>
    <td align="center"><a href="https://github.com/alfinsrf/FightYourFears">GitHub Repository</td>
+  </tr>
+ </tbody>
+</table>
+
+<br>
+
+<table width="100%">
+ <thead>
+   <tr>
+     <th width="50%" align="center">What I Saw</a></th>
+     <th width="50%" align="center">Panda and the Seed of Life</a></th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/WhatISawGIF.gif"></td>
+     <td><img src="https://github.com/alfinsrf/alfinsrf/blob/main/Media/PATSOLGIF.gif"></td>
+   </tr>
+   <tr>
+     <td valign="text-top">What I Saw is a story-driven FPS game where players must follow the storyline presented in each chapter and complete the tasks given during the game to progress the game.</td>
+     <td valign="text-top">Panda and the Seed of Life is a game I created for Gameseed 2024. This game tells the story of a panda who has great power and responsibility and he must go to the forbidden land to fulfill it. It is an action-adventure game where the player will play the panda and travel to the forbidden land. This journey will not be easy as there will be many challenges. Players can also level up the panda to become stronger and unlock skills that the panda has.</td>
+   </tr>
+   <tr>
+    <td align="center">Coming Soon</td>    
+    <td align="center"><a href="https://afr-developer.itch.io/panda-and-the-seed-of-life">Itch.Io Page</td>
+  </tr>
+  <tr>
+   <td align="center"></td>
+   <td align="center"></td>
   </tr>
  </tbody>
 </table>
