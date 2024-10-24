@@ -36,8 +36,7 @@ I have a deep interest in various things such as music, art, and technology. In 
      <td valign="text-top">Panda and the Seed of Life is a game I created for Gameseed 2024. This game tells the story of a panda who has great power and responsibility and he must go to the forbidden land to fulfill it. It is an action-adventure game where the player will play the panda and travel to the forbidden land. This journey will not be easy as there will be many challenges. Players can also level up the panda to become stronger and unlock skills that the panda has.</td>
    </tr>
    <tr>
-    <td align="center">Coming Soon</td>
-    <td align="center">Itch.Io Page Coming Soon</td>
+    <td align="center">Coming Soon</td>    
     <td align="center"><a href="https://afr-developer.itch.io/panda-and-the-seed-of-life">Itch.Io Page</td>
   </tr>
   <tr>
