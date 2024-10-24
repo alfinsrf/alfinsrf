@@ -81,7 +81,7 @@ I have a deep interest in various things such as music, art, and technology. In 
  <thead>
    <tr>
      <th width="50%" align="center">Force Pong</a></th>
-     <th width="50%" align="center">I'm still cooking on it</a></th>
+     <th width="50%" align="center">Portfolio Website</a></th>
    </tr>
  </thead>
  <tbody>
