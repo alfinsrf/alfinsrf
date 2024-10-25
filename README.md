@@ -3,7 +3,7 @@
 </p>-->
 Hi there, I'm Alfin 👋
 ---
-<h3 align="left">💁Let Me Introduce Myself</h3>
+## 💁Let Me Introduce Myself
 I'm a student from Bina Nusantara University. I love creating things and expressing my creativity✨ Welcome to my GitHub Profile, nice to meet you😄
 <br>
 <br>
