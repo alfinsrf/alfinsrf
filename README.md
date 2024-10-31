@@ -50,7 +50,7 @@ I have a deep interest in various things such as music, art, and technology. In 
   </tr>
   <tr>
    <td align="center"><a href=""></td>
-   <td align="center"><a href="https://github.com/alfinsrf/PemudaPintarMembangunBangsa">GitHub Repository</td>
+   <td align="center"><a href="https://github.com/alfinsrf/PemudaPintarMembangunBangsa">Read More</td>
   </tr>
  </tbody>
 </table>
@@ -78,8 +78,8 @@ I have a deep interest in various things such as music, art, and technology. In 
     <td align="center">Itch.Io Page Coming Soon</td>
   </tr>
   <tr>
-   <td align="center"><a href="https://github.com/alfinsrf/ForcePong">GitHub Repository</td>
-   <td align="center"><a href="https://github.com/alfinsrf/FightYourFears">GitHub Repository</td>
+   <td align="center"><a href="https://github.com/alfinsrf/ForcePong">Read More</td>
+   <td align="center"><a href="https://github.com/alfinsrf/FightYourFears">Read More</td>
   </tr>
  </tbody>
 </table>
@@ -132,11 +132,11 @@ I have a deep interest in various things such as music, art, and technology. In 
      <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid-project assignment.</td>
    </tr>
    <tr>
-    <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">Go To Website</td>
-    <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">Github Repository</td>
+    <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">Visit</td>
+    <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">Read More</td>
   </tr>
   <tr>
-   <td align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">GitHub Repository</td>
+   <td align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">Read More</td>
    <td align="center"></td>
   </tr>
  </tbody>
