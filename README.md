@@ -74,12 +74,12 @@ I have a deep interest in various things such as music, art, and technology. In 
      <td valign="text-top">You have fears? do you want to fight those fears? Fight Your Fears is a 2D top-down shooting game where we as players have to beat monsters that embody fear.</td>
    </tr>
    <tr>
-    <td align="center"><a href="https://afr-developer.itch.io/force-pong">Itch.Io Page</td>
-    <td align="center">Itch.Io Page Coming Soon</td>
+    <td align="center"><a href="https://github.com/alfinsrf/ForcePong">Read More</td>
+    <td align="center"><a href="https://github.com/alfinsrf/FightYourFears">Read More</td>    
   </tr>
   <tr>
-   <td align="center"><a href="https://github.com/alfinsrf/ForcePong">Read More</td>
-   <td align="center"><a href="https://github.com/alfinsrf/FightYourFears">Read More</td>
+    <td align="center"><a href="https://afr-developer.itch.io/force-pong">Itch.Io Page</td>
+    <td align="center">Itch.Io Page Coming Soon</td>
   </tr>
  </tbody>
 </table>
