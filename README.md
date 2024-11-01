@@ -132,12 +132,12 @@ I have a deep interest in various things such as music, art, and technology. In 
      <td valign="text-top">Golden Learning Website is a prototype E-learning website that contains many courses from various fields. This is BNCC's mid-project assignment.</td>
    </tr>
    <tr>
-    <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">Visit</td>
+    <td align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">Read More</td>    
     <td align="center"><a href="https://github.com/alfinsrf/goldenlearning.github.io">Read More</td>
   </tr>
   <tr>
-   <td align="center"><a href="https://github.com/alfinsrf/alfinsportfolio.github.io">Read More</td>
-   <td align="center"></td>
+    <td align="center"><a href="https://alfinsrf.github.io/alfinsportfolio.github.io/">Visit</td>
+    <td align="center"></td>
   </tr>
  </tbody>
 </table>
