@@ -45,11 +45,11 @@ I have a deep interest in various things such as music, art, and technology. In 
      <td valign="text-top">Pemuda Pintar: Membangun Bangsa is a platformer game where players must navigate obstacles, avoid traps, and outsmart enemies. These foes will challenge players with quick quizzes, adding an exciting cognitive element to the game. Show off your skills and intelligence as you progress through each level!</td>
    </tr>
    <tr>
-    <td align="center"><a href="https://afr-developer.itch.io/new-age">Itch.Io Page</td>
+    <td align="center"><a href=""></td>
     <td align="center">Itch.Io Page Coming Soon</td>
   </tr>
-  <tr>
-   <td align="center"><a href=""></td>
+  <tr>   
+   <td align="center"><a href="https://afr-developer.itch.io/new-age">Itch.Io Page</td>
    <td align="center"><a href="https://github.com/alfinsrf/PemudaPintarMembangunBangsa">Read More</td>
   </tr>
  </tbody>
