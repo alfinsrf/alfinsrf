@@ -115,7 +115,7 @@ I have a deep interest in various things such as music, art, and technology. In 
 
 <br>
 
-# 🌐Web and Other:
+# 🌐Web and Apps:
 <table width="100%">
  <thead>
    <tr>
