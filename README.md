@@ -27,7 +27,7 @@ I have a deep interest in various things such as music, art, and technology. In 
   </a>
 </p>
 
-#
+# Game Projects:
 <table width="100%">
  <thead>
    <tr>
