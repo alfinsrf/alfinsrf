@@ -100,7 +100,7 @@ I have a deep interest in various things such as music, art, and technology. In 
    </tr>
    <tr>
      <td valign="text-top">What I Saw is a story-driven FPS game where players must follow the storyline presented in each chapter and complete the tasks given during the game to progress the game.</td>
-     <td valign="text-top">Panda and the Seed of Life is a game I created for Gameseed 2024. This game tells the story of a panda who has great power and responsibility and he must go to the forbidden land to fulfill it. It is an action-adventure game where the player will play the panda and travel to the forbidden land. This journey will not be easy as there will be many challenges. Players can also level up the panda to become stronger and unlock skills that the panda has.</td>
+     <td valign="text-top">Panda and the Seed of Life is a game I created for Gameseed 2024. This game tells the story of a panda who has great power and responsibility and he must go to the forbidden land to fulfill it. It is an action-adventure game where the player will play the panda and travel to the forbidden land. This journey will not be easy, as there will be many challenges. Players can also level up the panda to become stronger and unlock skills that the panda has.</td>
    </tr>
    <tr>
     <td align="center">Coming Soon</td>    
@@ -115,6 +115,7 @@ I have a deep interest in various things such as music, art, and technology. In 
 
 <br>
 
+<!--
 # 🌐Web and Apps:
 <table width="100%">
  <thead>
@@ -142,6 +143,7 @@ I have a deep interest in various things such as music, art, and technology. In 
   </tr>
  </tbody>
 </table>
+-->
 
 <!--
 **alfinsrf/alfinsrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
