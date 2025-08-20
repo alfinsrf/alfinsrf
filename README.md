@@ -44,13 +44,11 @@ I have a deep interest in various things such as music, art, and technology. In 
      <td valign="text-top">New Age is a game that I made during Indie Game Ignite Game Jams 2024, I implemented the City of Tomorrow theme in the New Age game in the story and also as a place setting. I designed this game to be a souls-lite game because I quite like the souls-like genre even though the souls-like game I played was still only Elden Ring. There are two main bosses that you will encounter and must defeat to complete the game.</td>
      <td valign="text-top">Pemuda Pintar: Membangun Bangsa is a platformer game where players must navigate obstacles, avoid traps, and outsmart enemies. These foes will challenge players with quick quizzes, adding an exciting cognitive element to the game. Show off your skills and intelligence as you progress through each level!</td>
    </tr>
-   <tr>
-    <td align="center"><a href=""></td>
+   <tr>    
     <td align="center"><a href="https://github.com/alfinsrf/PemudaPintarMembangunBangsa">Read More</td>
   </tr>
   <tr>   
    <td align="center"><a href="https://afr-developer.itch.io/new-age">Itch.Io Page</td>
-   <td align="center">Itch.Io Page Coming Soon</td>   
   </tr>
  </tbody>
 </table>
