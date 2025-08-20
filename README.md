@@ -46,10 +46,8 @@ I have a deep interest in various things such as music, art, and technology. In 
    </tr>
    <tr>    
     <td align="center"><a href="https://github.com/alfinsrf/PemudaPintarMembangunBangsa">Read More</td>
-  </tr>
-  <tr>   
    <td align="center"><a href="https://afr-developer.itch.io/new-age">Itch.Io Page</td>
-  </tr>
+  </tr>  
  </tbody>
 </table>
 
